@@ -2,7 +2,7 @@
   "name": "shorthand-loader",
   "description": "Webpack Loader that rewrite CSS rules in short mode if is possible",
   "homepage": "https://github.com/Kikobeats/shorthand-loader",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "index.js",
   "author": {
     "email": "josefrancisco.verdu@gmail.com",
@@ -16,9 +16,6 @@
   "bugs": {
     "url": "https://github.com/Kikobeats/shorthand-loader/issues"
   },
-  "files": [
-    "index.js"
-  ],
   "keywords": [
     "webpack",
     "loader",
@@ -36,6 +33,9 @@
   "engines": {
     "node": ">= 0.10"
   },
+  "files": [
+    "index.js"
+  ],
   "scripts": {
     "clean": "rm -rf node_modules",
     "lint": "standard",
