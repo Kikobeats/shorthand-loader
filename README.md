@@ -1,5 +1,7 @@
 # shorthand-loader
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/shorthand-loader.svg)](https://greenkeeper.io/)
+
 ![Last version](https://img.shields.io/github/tag/Kikobeats/shorthand-loader.svg?style=flat-square)
 [![Dependency status](https://img.shields.io/david/Kikobeats/shorthand-loader.svg?style=flat-square)](https://david-dm.org/Kikobeats/shorthand-loader)
 [![Dev Dependencies Status](https://img.shields.io/david/dev/Kikobeats/shorthand-loader.svg?style=flat-square)](https://david-dm.org/Kikobeats/shorthand-loader#info=devDependencies)
